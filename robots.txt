@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://layer7.uk/sitemap-index.xml
